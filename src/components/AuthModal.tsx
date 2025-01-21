@@ -149,3 +149,6 @@ export default function AuthModal({ isOpen, onClose, platform }: AuthModalProps)
     </div>
   );
 }
+
+// Vite is not working
+// Vite is not working
